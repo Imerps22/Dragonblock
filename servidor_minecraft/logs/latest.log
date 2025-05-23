@@ -1,8 +1,61 @@
-[05:19:01] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[05:19:06] [Server thread/INFO]: Loading properties
-[05:19:06] [Server thread/INFO]: Default game type: SURVIVAL
-[05:19:06] [Server thread/INFO]: Generating keypair
-[05:19:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:19:07] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
-[05:19:07] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use
-[05:19:07] [Server thread/WARN]: Perhaps a server is already running on that port?
+[18:30:30] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[18:30:30] [Server thread/INFO]: Loading properties
+[18:30:30] [Server thread/INFO]: Default game type: SURVIVAL
+[18:30:30] [Server thread/INFO]: Generating keypair
+[18:30:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:30:30] [Server thread/WARN]: Failed to load user banlist: 
+java.io.FileNotFoundException: banned-players.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_452]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_452]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_452]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[vanilla.jar:?]
+	at om.g(SourceFile:124) ~[vanilla.jar:?]
+	at ls.y(SourceFile:99) [vanilla.jar:?]
+	at ls.<init>(SourceFile:25) [vanilla.jar:?]
+	at lt.e(SourceFile:166) [vanilla.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:339) [vanilla.jar:?]
+	at lj.run(SourceFile:628) [vanilla.jar:?]
+[18:30:30] [Server thread/WARN]: Failed to load ip banlist: 
+java.io.FileNotFoundException: banned-ips.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_452]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_452]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_452]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[vanilla.jar:?]
+	at om.g(SourceFile:124) ~[vanilla.jar:?]
+	at ls.x(SourceFile:91) [vanilla.jar:?]
+	at ls.<init>(SourceFile:27) [vanilla.jar:?]
+	at lt.e(SourceFile:166) [vanilla.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:339) [vanilla.jar:?]
+	at lj.run(SourceFile:628) [vanilla.jar:?]
+[18:30:30] [Server thread/WARN]: Failed to load operators list: 
+java.io.FileNotFoundException: ops.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_452]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_452]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_452]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[vanilla.jar:?]
+	at om.g(SourceFile:124) ~[vanilla.jar:?]
+	at ls.z(SourceFile:107) [vanilla.jar:?]
+	at ls.<init>(SourceFile:29) [vanilla.jar:?]
+	at lt.e(SourceFile:166) [vanilla.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:339) [vanilla.jar:?]
+	at lj.run(SourceFile:628) [vanilla.jar:?]
+[18:30:30] [Server thread/WARN]: Failed to load white-list: 
+java.io.FileNotFoundException: whitelist.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_452]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_452]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_452]
+	at com.google.common.io.Files.newReader(Files.java:86) ~[vanilla.jar:?]
+	at om.g(SourceFile:124) ~[vanilla.jar:?]
+	at ls.B(SourceFile:123) [vanilla.jar:?]
+	at ls.<init>(SourceFile:30) [vanilla.jar:?]
+	at lt.e(SourceFile:166) [vanilla.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:339) [vanilla.jar:?]
+	at lj.run(SourceFile:628) [vanilla.jar:?]
+[18:30:30] [Server thread/INFO]: Preparing level "world"
+[18:30:30] [Server thread/INFO]: Preparing start region for level 0
+[18:30:31] [Server thread/INFO]: Preparing spawn area: 15%
+[18:30:32] [Server thread/INFO]: Preparing spawn area: 38%
+[18:30:33] [Server thread/INFO]: Preparing spawn area: 66%
+[18:30:34] [Server thread/INFO]: Preparing spawn area: 98%
+[18:30:34] [Server thread/INFO]: Done (4.219s)! For help, type "help" or "?"
+[18:30:35] [Server thread/INFO]: Unknown command. Try /help for a list of commands
