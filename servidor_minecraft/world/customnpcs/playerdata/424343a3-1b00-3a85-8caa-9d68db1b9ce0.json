@@ -26,10 +26,23 @@
         "CompletedQuests": [
         ],
         "ActiveQuests": [
+            {
+                "QuestCompleted": 1b,
+                "SendAlerts": 0b,
+                "ExtraData": {
+                },
+                "Quest": 2
+            }
         ]
     },
     "PlayerCompanionId": 0,
     "DialogData": [
+        {
+            "Dialog": 7
+        },
+        {
+            "Dialog": 8
+        }
     ],
     "ItemGiverChained": [
     ],
@@ -40,5 +53,5 @@
     ],
     "PlayerName": "diego59288",
     "UUID": "424343a3-1b00-3a85-8caa-9d68db1b9ce0",
-    "TrackedQuestID": -1
+    "TrackedQuestID": 2
 }
