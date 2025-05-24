@@ -26,7 +26,11 @@
         "CompletedQuests": [
             {
                 "Quest": 3,
-                "Date": 633337L
+                "Date": 642125L
+            },
+            {
+                "Quest": 4,
+                "Date": 647252L
             }
         ],
         "ActiveQuests": [
