@@ -63,3 +63,14 @@
 [04:38:45] [Server thread/INFO]: [ImerPs: Given [Orb] * 64 to ImerPs]
 [04:39:30] [Server thread/INFO]: [ImerPs: Given [Orb] * 64 to ImerPs]
 [04:39:42] [Server thread/INFO]: [ImerPs: Given [Orb] * 64 to ImerPs]
+[04:40:14] [Server thread/INFO]: [ImerPs: Set own game mode to Survival Mode]
+[04:40:16] [Server thread/INFO]: ImerPs lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[04:40:16] [Server thread/INFO]: ImerPs left the game
+[04:40:24] [Server thread/INFO]: ImerPs[/127.60.201.108:47357] logged in with entity id 33816 at (52.27532713985964, 68.0, -325.40053583943006)
+[04:40:24] [Server thread/INFO]: ImerPs joined the game
+[04:41:46] [Server thread/INFO]: ImerPs fell out of the world
+[04:43:00] [Server thread/INFO]: [ImerPs: Teleported ImerPs to 49.5,70.5,-333.5]
+[04:48:06] [Server thread/INFO]: ImerPs lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[04:48:06] [Server thread/INFO]: ImerPs left the game
+[04:49:16] [Server thread/INFO]: ImerPs[/127.60.201.108:36451] logged in with entity id 40274 at (57.78057835996151, 68.0, -335.70719456618025)
+[04:49:16] [Server thread/INFO]: ImerPs joined the game
