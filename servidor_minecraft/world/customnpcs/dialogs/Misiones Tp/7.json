@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 8,
-                "Title": "Dame un momento",
+                "Title": "En camino.",
                 "DialogColor": 7466250,
                 "OptionType": 1
             }
@@ -79,7 +79,7 @@
     "TextWidth": 300,
     "DialogTitle": "Tp",
     "PreviousBlocks": 1b,
-    "DialogText": "Mata esos molestos saibaman Guapo.",
+    "DialogText": "Traeme 10 orbes cafes como tus ojos guapo....",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
@@ -92,7 +92,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1748068141748L,
+        "TimePast": 1748068369949L,
         "Time": 0L,
         "Subject": ""
     }
