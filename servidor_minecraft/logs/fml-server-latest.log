@@ -2855,3 +2855,46 @@ Failed to initialize compiler: object scala in compiler mirror not found.
 [04:09:33] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: ImerPs
 [04:09:33] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
 [04:09:33] [Netty IO #0/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[04:09:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:10:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:11:13] [Server thread/INFO] [jinryuudragonblockc/]: diego59288 has died
+[04:11:13] [Server thread/INFO] [jinryuujrmcore/]: diego59288 was slain by Saibaman
+[04:11:14] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: diego59288
+[04:11:15] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: diego59288
+[04:11:15] [Server thread/INFO] [jinryuujrmcore/]: diego59288 Has died and gone to Otherworld.
+[04:11:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:12:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:12:09] [Server thread/INFO] [jinryuudragonblockc/]: ImerPs has died
+[04:12:09] [Server thread/INFO] [jinryuujrmcore/]: ImerPs was slain by Saibaman
+[04:12:11] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: ImerPs
+[04:12:11] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: ImerPs
+[04:12:11] [Server thread/INFO] [jinryuujrmcore/]: ImerPs Has died and gone to Otherworld.
+[04:12:16] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: diego59288
+[04:12:16] [Server thread/INFO] [jinryuudragonblockc/]: diego59288 revived!
+[04:12:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:13:18] [Server thread/INFO] [jinryuudragonblockc/]: Snake Way Spawned
+[04:13:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:13:39] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: ImerPs
+[04:13:39] [Server thread/INFO] [jinryuudragonblockc/]: ImerPs revived!
+[04:14:12] [Server thread/INFO] [jinryuudragonblockc/]: diego59288 has died
+[04:14:12] [Server thread/INFO] [jinryuujrmcore/]: diego59288 was slain by Saibaman
+[04:14:16] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: diego59288
+[04:14:16] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: diego59288
+[04:14:16] [Server thread/INFO] [jinryuujrmcore/]: diego59288 Has died and gone to Otherworld.
+[04:14:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:15:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:15:13] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: diego59288
+[04:15:13] [Server thread/INFO] [jinryuudragonblockc/]: diego59288 revived!
+[04:15:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:16:18] [Server thread/INFO] [jinryuudragonblockc/]: ImerPs has died
+[04:16:18] [Server thread/INFO] [jinryuujrmcore/]: ImerPs was slain by Saibaman
+[04:16:19] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: ImerPs
+[04:16:19] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: ImerPs
+[04:16:19] [Server thread/INFO] [jinryuujrmcore/]: ImerPs Has died and gone to Otherworld.
+[04:16:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:17:23] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: ImerPs
+[04:17:23] [Server thread/INFO] [jinryuudragonblockc/]: ImerPs revived!
+[04:17:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:18:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:18:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:19:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
