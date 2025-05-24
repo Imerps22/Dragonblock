@@ -3,9 +3,8 @@
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 1,
-    "QuestCompletion": 0,
-    "IgnoreNBT": 0b,
-    "Title": "10 orbes",
+    "QuestCompletion": 1,
+    "Title": "10 SAIBAMAN",
     "Text": "",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -18,7 +17,8 @@
     "RewardExp": 0,
     "QuestCommand": "/jrmctp 1000 @p",
     "ModRev": 22,
-    "Type": 0,
+    "Type": 2,
+    "CustomTargetType": "noppes.npcs.entity.EntityCustomNpc",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -27,11 +27,10 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1748067085299L,
+        "TimePast": 1748068074501L,
         "Time": 0L,
         "Subject": ""
     },
-    "IgnoreDamage": 0b,
     "Rewards": {
         "NpcMiscInv": [
         ]
@@ -39,17 +38,13 @@
     "PartyOptions": {
         "AllowParty": 0b
     },
-    "Items": {
-        "NpcMiscInv": [
-            {
-                "Slot": 0b,
-                "id": "customnpcs:npcOrb",
-                "Count": 10b,
-                "Damage": 12s
-            }
-        ]
-    },
-    "LeaveItems": 0b,
+    "QuestKills": [
+        {
+            "Value": 10,
+            "Slot": "Saiba"
+        }
+    ],
+    "TargetType": 0,
     "CompleteText": "Perfecto trae mas gordito...",
     "NextQuestTitle": ""
 }

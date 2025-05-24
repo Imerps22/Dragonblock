@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 8,
-                "Title": "Toma",
+                "Title": "Dame un momento",
                 "DialogColor": 7466250,
                 "OptionType": 1
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "No hay mijo",
+                "Title": "No que perezaaaaa",
                 "DialogColor": 14223625,
                 "OptionType": 0
             }
@@ -79,7 +79,7 @@
     "TextWidth": 300,
     "DialogTitle": "Tp",
     "PreviousBlocks": 1b,
-    "DialogText": "Necesito 10 orbes cafes como tus ojos...",
+    "DialogText": "Mata esos molestos saibaman Guapo.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
@@ -92,7 +92,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1748066994749L,
+        "TimePast": 1748068141748L,
         "Time": 0L,
         "Subject": ""
     }
