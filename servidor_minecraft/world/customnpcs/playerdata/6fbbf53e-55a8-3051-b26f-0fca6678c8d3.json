@@ -1,7 +1,7 @@
 {
-    "ItemGiverChained": [
-    ],
     "TransportData": [
+    ],
+    "NpcsTimers": [
     ],
     "FactionData": [
         {
@@ -21,17 +21,24 @@
     ],
     "ItemGiversList": [
     ],
-    "MailData": [
-    ],
-    "PlayerName": "ImerPs",
+    "AllowAnimation": 0b,
     "QuestData": {
         "CompletedQuests": [
         ],
         "ActiveQuests": [
         ]
     },
-    "UUID": "6fbbf53e-55a8-3051-b26f-0fca6678c8d3",
     "PlayerCompanionId": 0,
     "DialogData": [
-    ]
+    ],
+    "ItemGiverChained": [
+    ],
+    "SkinOverlayData": [
+    ],
+    "isGUIOpen": 0b,
+    "MailData": [
+    ],
+    "PlayerName": "ImerPs",
+    "UUID": "6fbbf53e-55a8-3051-b26f-0fca6678c8d3",
+    "TrackedQuestID": -1
 }
