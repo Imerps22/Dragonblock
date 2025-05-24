@@ -114,3 +114,12 @@
 [05:51:51] [Server thread/INFO]: [ImerPs: Set own game mode to Survival Mode]
 [05:52:28] [Server thread/INFO]: [ImerPs: Set own game mode to Creative Mode]
 [05:59:27] [Server thread/INFO]: [ImerPs: Given [Orb] * 64 to ImerPs]
+[06:01:30] [Server thread/INFO]: ImerPs lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[06:01:30] [Server thread/INFO]: ImerPs left the game
+[06:01:31] [Server thread/INFO]: diego59288 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[06:01:31] [Server thread/INFO]: diego59288 left the game
+[06:01:34] [Server thread/INFO]: ImerPs[/127.60.201.108:51421] logged in with entity id 75029 at (52.75040748333385, 68.0, -325.67844957360677)
+[06:01:34] [Server thread/INFO]: ImerPs joined the game
+[06:01:36] [Server thread/INFO]: diego59288[/127.205.203.8:37555] logged in with entity id 75162 at (54.5, 68.9249999821186, -335.5)
+[06:01:36] [Server thread/INFO]: diego59288 joined the game
+[06:07:14] [Server thread/INFO]: [ImerPs: Given [Orb] * 64 to ImerPs]
