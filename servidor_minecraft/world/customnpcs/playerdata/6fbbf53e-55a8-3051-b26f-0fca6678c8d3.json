@@ -24,6 +24,10 @@
     "AllowAnimation": 0b,
     "QuestData": {
         "CompletedQuests": [
+            {
+                "Quest": 3,
+                "Date": 633337L
+            }
         ],
         "ActiveQuests": [
             {

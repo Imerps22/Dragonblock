@@ -1,8 +1,8 @@
 {
-    "CompleterNpc": "",
+    "CompleterNpc": "Chucho",
     "NextQuestId": -1,
     "RandomReward": 0b,
-    "QuestRepeat": 0,
+    "QuestRepeat": 1,
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
     "Title": "10 Orbes cafes",
@@ -16,7 +16,7 @@
         "DecreaseFaction2Points": 0b
     },
     "RewardExp": 0,
-    "QuestCommand": "",
+    "QuestCommand": "/jrcmtp 2000",
     "ModRev": 22,
     "Type": 0,
     "QuestMail": {
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1748068598899L,
+        "TimePast": 1748069382298L,
         "Time": 0L,
         "Subject": ""
     },
@@ -41,6 +41,12 @@
     },
     "Items": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcBrokenOrb",
+                "Count": 10b,
+                "Damage": 12s
+            }
         ]
     },
     "LeaveItems": 0b,

@@ -52,7 +52,7 @@
     "TitleOffsetX": 0,
     "ModRev": 22,
     "DecreaseFaction1Points": 0b,
-    "DialogQuest": 2,
+    "DialogQuest": 3,
     "AvailabilityDialog2": 0,
     "AvailabilityDayTime": 0,
     "DialogDarkScreen": 1b,
@@ -72,7 +72,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1748068653298L,
+        "TimePast": 1748068936607L,
         "Time": 0L,
         "Subject": ""
     }
