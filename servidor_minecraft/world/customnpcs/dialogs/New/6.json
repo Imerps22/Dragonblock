@@ -28,7 +28,7 @@
     "TextSound": "minecraft:random.wood_click",
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
-    "DialogCommand": "jrmcse settp @p add 500",
+    "DialogCommand": "",
     "TextPitch": 1.0f,
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
@@ -43,20 +43,10 @@
         {
             "OptionSlot": 0,
             "Option": {
-                "DialogCommand": "/jrmctp 500 @p",
-                "Dialog": 6,
-                "Title": "toma 10 orbes",
-                "DialogColor": 1703192,
-                "OptionType": 1
-            }
-        },
-        {
-            "OptionSlot": 1,
-            "Option": {
                 "DialogCommand": "npc.executeCommand(\"/jrmctp 1000 @p\"); ",
                 "Dialog": -1,
                 "Title": "Gracias",
-                "DialogColor": 14737632,
+                "DialogColor": 14288648,
                 "OptionType": 4
             }
         }
@@ -77,9 +67,9 @@
     "AvailabilityDayTime": 0,
     "DialogDarkScreen": 1b,
     "TextWidth": 300,
-    "DialogTitle": "Intercambio de Tp",
+    "DialogTitle": "Gracias",
     "PreviousBlocks": 1b,
-    "DialogText": "Por 10 Orbes Cafes de toy 500 de tp",
+    "DialogText": "Gracias por las orbes me gusta fumarlas trae mas",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
@@ -92,7 +82,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1748065686900L,
+        "TimePast": 1748065621701L,
         "Time": 0L,
         "Subject": ""
     }
