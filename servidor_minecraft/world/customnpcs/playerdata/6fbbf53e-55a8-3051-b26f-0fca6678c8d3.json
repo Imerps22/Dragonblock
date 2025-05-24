@@ -30,6 +30,9 @@
     },
     "PlayerCompanionId": 0,
     "DialogData": [
+        {
+            "Dialog": 4
+        }
     ],
     "ItemGiverChained": [
     ],
