@@ -40,6 +40,26 @@
     "DecreaseFaction2Points": 0b,
     "DialogShowWheel": 0b,
     "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "jrmcse settp @p add 500",
+                "Dialog": -1,
+                "Title": "toma 10 orbes",
+                "DialogColor": 1703192,
+                "OptionType": 4
+            }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Gracias",
+                "DialogColor": 14737632,
+                "OptionType": 1
+            }
+        }
     ],
     "TextHeight": 400,
     "OptionSpaceX": 0,
@@ -59,7 +79,7 @@
     "TextWidth": 300,
     "DialogTitle": "Intercambio de Tp",
     "PreviousBlocks": 1b,
-    "DialogText": "",
+    "DialogText": "Por 10 Orbes Cafes de toy 500 de tp",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
@@ -72,7 +92,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1748064156604L,
+        "TimePast": 1748065169899L,
         "Time": 0L,
         "Subject": ""
     }
