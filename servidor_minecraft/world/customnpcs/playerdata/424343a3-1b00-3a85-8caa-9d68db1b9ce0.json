@@ -34,7 +34,7 @@
             },
             {
                 "Quest": 4,
-                "Date": 1322293L
+                "Date": 1358392L
             },
             {
                 "Quest": 5,
@@ -42,6 +42,13 @@
             }
         ],
         "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "SendAlerts": 1b,
+                "ExtraData": {
+                },
+                "Quest": 4
+            }
         ]
     },
     "PlayerCompanionId": 0,
