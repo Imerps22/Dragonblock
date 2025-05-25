@@ -87,3 +87,18 @@
 [03:58:04] [Server thread/INFO]: ImerPs joined the game
 [03:58:44] [Server thread/WARN]: ImerPs moved wrongly!
 [03:58:54] [Server thread/INFO]: ImerPs fell out of the world
+[04:00:30] [Server thread/INFO]: [@QuestCompletion: TP adding 7000 success for diego59288]
+[04:00:58] [Server thread/INFO]: [diego59288: Teleported diego59288 to -433.5,71.5,-358.5]
+[04:01:05] [Server thread/INFO]: [diego59288: Teleported diego59288 to 34.5,218.5,26.5]
+[04:02:06] [Server thread/INFO]: [diego59288: Unable to teleport because players are not in the same dimension]
+[04:02:27] [Server thread/INFO]: [diego59288: Teleported diego59288 to 56.5,68.5,-326.5]
+[04:02:34] [Server thread/INFO]: [ImerPs: Teleported ImerPs to 102.5,116.5,-3708.5]
+[04:03:44] [Server thread/INFO]: [ImerPs: Teleported ImerPs to 74.5,91.5,70.5]
+[04:04:11] [Server thread/INFO]: [ImerPs: Teleported ImerPs to 60.5,71.5,-349.5]
+[04:04:33] [Server thread/INFO]: ImerPs fell out of the world
+[04:04:36] [Server thread/WARN]: Fetching addPacket for removed entity
+[04:05:38] [Server thread/INFO]: [ImerPs: Teleported ImerPs to 66.5,68.5,-341.5]
+[04:05:42] [Server thread/INFO]: [@QuestCompletion: TP adding 2000 success for diego59288]
+[04:05:46] [Server thread/INFO]: [@QuestCompletion: TP adding 2000 success for diego59288]
+[04:05:50] [Server thread/INFO]: [@QuestCompletion: TP adding 2000 success for diego59288]
+[04:05:54] [Server thread/INFO]: [@QuestCompletion: TP adding 2000 success for diego59288]
