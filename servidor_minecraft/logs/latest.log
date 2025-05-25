@@ -138,3 +138,22 @@
 [04:27:50] [Server thread/INFO]: [@QuestCompletion: TP adding 7000 success for diego59288]
 [04:27:56] [Server thread/INFO]: [@QuestCompletion: TP adding 7000 success for diego59288]
 [04:28:53] [Server thread/INFO]: [diego59288: Teleported diego59288 to 34.5,218.5,26.5]
+[04:30:24] [Server thread/INFO]: [ImerPs: Teleported ImerPs to 66.5,219.5,52.5]
+[04:31:02] [Server thread/INFO]: [diego59288: Teleported diego59288 to -2066.5,71.5,440.5]
+[04:31:03] [Server thread/INFO]: [ImerPs: Teleported ImerPs to -2066.5,70.5,434.5]
+[04:31:33] [Server thread/INFO]: [diego59288: Teleported diego59288 to ImerPs]
+[04:33:14] [Server thread/INFO]: ImerPs fell out of the world
+[04:34:17] [Server thread/INFO]: [ImerPs: Teleported ImerPs to -2084.5,61.5,431.5]
+[04:39:07] [Server thread/INFO]: [ImerPs: Given [Barber Scissors and Comb] * 1 to ImerPs]
+[04:39:12] [Server thread/INFO]: ImerPs lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[04:39:12] [Server thread/INFO]: ImerPs left the game
+[04:39:15] [Server thread/INFO]: ImerPs[/127.60.201.108:52893] logged in with entity id 1866649 at (-2136.2712138724914, 65.0, 452.4032191367182)
+[04:39:15] [Server thread/INFO]: ImerPs joined the game
+[04:42:18] [Server thread/INFO]: [ImerPs: Teleported ImerPs to 66.5,219.5,52.5]
+[04:42:33] [Server thread/INFO]: [diego59288: Teleported diego59288 to ImerPs]
+[04:43:16] [Server thread/WARN]: diego59288 moved wrongly!
+[04:43:17] [Server thread/WARN]: ImerPs moved wrongly!
+[04:48:50] [Server thread/WARN]: ImerPs moved wrongly!
+[04:48:54] [Server thread/WARN]: diego59288 moved wrongly!
+[04:49:01] [Server thread/WARN]: diego59288 moved too quickly! 1.0003145337104797,-0.5,-22.007584931328893 (1.0003145337104797, 0.5, 22.007584931328893)
+[04:49:04] [Server thread/INFO]: [diego59288: Teleported diego59288 to ImerPs]
