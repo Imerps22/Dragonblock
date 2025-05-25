@@ -23,3 +23,24 @@
 [03:27:58] [Server thread/INFO]: diego59288[/127.205.203.8:37227] logged in with entity id 16389 at (-554.7663543671028, 84.14368769087864, -248.7293184902834)
 [03:27:58] [Server thread/INFO]: diego59288 joined the game
 [03:28:22] [Server thread/INFO]: [diego59288: Teleported diego59288 to 56.5,68.5,-326.5]
+[03:32:49] [Server thread/INFO]: [ImerPs: Given [Pendant] * 64 to ImerPs]
+[03:33:43] [Server thread/INFO]: ImerPs lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:33:43] [Server thread/INFO]: ImerPs left the game
+[03:33:44] [Server thread/INFO]: diego59288 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[03:33:44] [Server thread/INFO]: diego59288 left the game
+[03:33:47] [Server thread/INFO]: ImerPs[/127.60.201.108:59029] logged in with entity id 20591 at (66.65596280084263, 68.0, -328.86580636676183)
+[03:33:47] [Server thread/INFO]: ImerPs joined the game
+[03:33:49] [Server thread/INFO]: diego59288[/127.205.203.8:55387] logged in with entity id 20814 at (57.019464774868226, 69.15310793487474, -333.3698070347309)
+[03:33:49] [Server thread/INFO]: diego59288 joined the game
+[03:36:10] [Server thread/INFO]: [@QuestCompletion: TP adding 2000 success for diego59288]
+[03:36:15] [Server thread/INFO]: [@QuestCompletion: TP adding 2000 success for diego59288]
+[03:36:18] [Server thread/INFO]: [@QuestCompletion: TP adding 2000 success for diego59288]
+[03:36:23] [Server thread/INFO]: [@QuestCompletion: TP adding 2000 success for diego59288]
+[03:36:27] [Server thread/INFO]: [@QuestCompletion: TP adding 2000 success for diego59288]
+[03:36:33] [Server thread/INFO]: [@QuestCompletion: TP adding 2000 success for diego59288]
+[03:36:38] [Server thread/INFO]: [@QuestCompletion: TP adding 2000 success for diego59288]
+[03:36:43] [Server thread/INFO]: [@QuestCompletion: TP adding 2000 success for diego59288]
+[03:36:50] [Server thread/INFO]: [@QuestCompletion: TP adding 2000 success for diego59288]
+[03:38:20] [Server thread/INFO]: [@QuestCompletion: TP adding 2000 success for diego59288]
+[03:38:26] [Server thread/INFO]: [@QuestCompletion: TP adding 2000 success for diego59288]
+[03:38:30] [Server thread/INFO]: [ImerPs: Given [Lightning Spell] * 64 to ImerPs]
