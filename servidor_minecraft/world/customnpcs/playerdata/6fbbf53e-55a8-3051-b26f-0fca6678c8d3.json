@@ -25,22 +25,19 @@
     "QuestData": {
         "CompletedQuests": [
             {
+                "Quest": 2,
+                "Date": 659684L
+            },
+            {
                 "Quest": 3,
                 "Date": 642125L
             },
             {
                 "Quest": 4,
-                "Date": 647252L
+                "Date": 806074L
             }
         ],
         "ActiveQuests": [
-            {
-                "QuestCompleted": 0b,
-                "SendAlerts": 1b,
-                "ExtraData": {
-                },
-                "Quest": 2
-            }
         ]
     },
     "PlayerCompanionId": 0,
