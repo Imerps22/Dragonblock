@@ -30,3 +30,42 @@
 [07:31:35] [Server thread/INFO]: [@QuestCompletion: TP adding 8000 success for diego59288]
 [07:31:38] [Server thread/INFO]: [@QuestCompletion: TP adding 8000 success for diego59288]
 [07:31:43] [Server thread/INFO]: [@QuestCompletion: TP adding 8000 success for diego59288]
+[07:39:49] [Server thread/INFO]: diego59288 fell out of the world
+[07:40:01] [Server thread/INFO]: [diego59288: Teleported diego59288 to 107.5,116.5,-3717.5]
+[07:40:28] [Server thread/INFO]: [diego59288: Teleported diego59288 to 77.5,91.5,60.5]
+[07:40:30] [Server thread/WARN]: Fetching addPacket for removed entity
+[07:40:30] [Server thread/WARN]: Fetching addPacket for removed entity
+[07:40:54] [Server thread/INFO]: [diego59288: Teleported diego59288 to ImerPs]
+[07:42:50] [Server thread/INFO]: [@QuestCompletion: TP adding 20000 success for diego59288]
+[07:42:55] [Server thread/INFO]: [@QuestCompletion: TP adding 20000 success for diego59288]
+[07:43:15] [Server thread/INFO]: ImerPs fell out of the world
+[07:43:55] [Server thread/INFO]: [ImerPs: Set own game mode to Creative Mode]
+[07:44:07] [Server thread/INFO]: [ImerPs: Given [Pendant] * 1 to ImerPs]
+[07:44:08] [Server thread/INFO]: [ImerPs: Given [Pendant] * 1 to ImerPs]
+[07:44:27] [Server thread/INFO]: [ImerPs: Teleported ImerPs to 63.5,68.5,-344.5]
+[07:44:27] [Server thread/WARN]: Fetching addPacket for removed entity
+[07:44:27] [Server thread/WARN]: Fetching addPacket for removed entity
+[07:44:27] [Server thread/WARN]: Fetching addPacket for removed entity
+[07:44:27] [Server thread/WARN]: Fetching addPacket for removed entity
+[07:44:27] [Server thread/WARN]: Fetching addPacket for removed entity
+[07:44:27] [Server thread/WARN]: Fetching addPacket for removed entity
+[07:44:27] [Server thread/WARN]: Fetching addPacket for removed entity
+[07:44:27] [Server thread/WARN]: Fetching addPacket for removed entity
+[07:45:05] [Server thread/INFO]: [diego59288: Teleported diego59288 to ImerPs]
+[07:45:53] [Server thread/INFO]: [ImerPs: Set own game mode to Survival Mode]
+[07:45:55] [Server thread/INFO]: ImerPs lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[07:45:55] [Server thread/INFO]: ImerPs left the game
+[07:46:04] [Server thread/INFO]: ImerPs[/127.60.201.108:35109] logged in with entity id 587263 at (66.7784079760313, 69.04488488728204, -341.7784079760313)
+[07:46:04] [Server thread/INFO]: ImerPs joined the game
+[07:47:46] [Server thread/INFO]: ImerPs fell out of the world
+[07:48:18] [Server thread/WARN]: ImerPs moved wrongly!
+[07:48:49] [Server thread/INFO]: [ImerPs: Teleported ImerPs to 65.5,68.5,-336.5]
+[07:48:49] [Server thread/WARN]: Fetching addPacket for removed entity
+[07:48:49] [Server thread/WARN]: Fetching addPacket for removed entity
+[07:48:49] [Server thread/WARN]: Fetching addPacket for removed entity
+[07:48:49] [Server thread/WARN]: Fetching addPacket for removed entity
+[07:50:08] [Server thread/WARN]: diego59288 moved wrongly!
+[07:50:17] [Server thread/INFO]: ImerPs fell out of the world
+[07:51:26] [Server thread/INFO]: [ImerPs: Teleported ImerPs to 65.5,68.5,-336.5]
+[07:51:40] [Server thread/INFO]: ImerPs fell out of the world
+[07:52:56] [Server thread/INFO]: [ImerPs: Teleported ImerPs to 65.5,68.5,-336.5]
