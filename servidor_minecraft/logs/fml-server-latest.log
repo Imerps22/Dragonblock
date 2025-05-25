@@ -3363,3 +3363,16 @@ Failed to initialize compiler: object scala in compiler mirror not found.
 [06:59:31] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: diego59288
 [06:59:31] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
 [06:59:31] [Netty IO #5/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[07:00:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[07:00:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[07:01:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[07:02:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[07:03:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[07:03:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[07:04:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[07:05:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[07:06:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[07:06:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[07:07:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[07:08:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[07:09:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
