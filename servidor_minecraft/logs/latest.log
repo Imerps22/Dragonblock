@@ -383,3 +383,9 @@
 [06:44:39] [Server thread/INFO]: [@QuestCompletion: TP adding 8000 success for diego59288]
 [06:44:43] [Server thread/INFO]: [@QuestCompletion: TP adding 8000 success for diego59288]
 [06:45:07] [Server thread/INFO]: [diego59288: Teleported diego59288 to ImerPs]
+[06:51:47] [Server thread/INFO]: [diego59288: Teleported diego59288 to -1247.5,68.5,268.5]
+[06:52:07] [Server thread/INFO]: [diego59288: Teleported diego59288 to ImerPs]
+[06:59:26] [Server thread/INFO]: diego59288 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[06:59:26] [Server thread/INFO]: diego59288 left the game
+[06:59:31] [Server thread/INFO]: diego59288[/127.205.203.8:43161] logged in with entity id 2993962 at (-585.2535178105073, 74.0, -374.12721953072844)
+[06:59:31] [Server thread/INFO]: diego59288 joined the game
