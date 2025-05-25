@@ -16,7 +16,7 @@
         "DecreaseFaction2Points": 0b
     },
     "RewardExp": 0,
-    "QuestCommand": "/jrmctp 2000 @p",
+    "QuestCommand": "/jrmctp 8000 @p",
     "ModRev": 22,
     "Type": 0,
     "QuestMail": {
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1748070566368L,
+        "TimePast": 1748154760478L,
         "Time": 0L,
         "Subject": ""
     },

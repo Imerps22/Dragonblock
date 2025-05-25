@@ -5,7 +5,7 @@
     "QuestRepeat": 1,
     "QuestCompletion": 0,
     "IgnoreNBT": 0b,
-    "Title": "50 orbes ",
+    "Title": "30 orbes ",
     "Text": "",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -16,7 +16,7 @@
         "DecreaseFaction2Points": 0b
     },
     "RewardExp": 0,
-    "QuestCommand": "/jrmctp 7000 @p",
+    "QuestCommand": "/jrmctp 20000 @p",
     "ModRev": 22,
     "Type": 0,
     "QuestMail": {
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1748143999125L,
+        "TimePast": 1748155134672L,
         "Time": 0L,
         "Subject": ""
     },
