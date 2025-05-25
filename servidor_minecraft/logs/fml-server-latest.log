@@ -3079,3 +3079,30 @@ Failed to initialize compiler: object scala in compiler mirror not found.
 [04:48:50] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: ImerPs
 [04:48:54] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: diego59288
 [04:48:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:49:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:50:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:51:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:51:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:52:18] [Server thread/INFO] [jinryuudragonblockc/]: ImerPs has died
+[04:52:18] [Server thread/INFO] [jinryuujrmcore/]: ImerPs was slain by Cell
+[04:52:20] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: ImerPs
+[04:52:20] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: ImerPs
+[04:52:20] [Server thread/INFO] [jinryuujrmcore/]: ImerPs Has died and gone to Otherworld.
+[04:52:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:53:23] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: ImerPs
+[04:53:23] [Server thread/INFO] [jinryuudragonblockc/]: ImerPs revived!
+[04:53:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:53:35] [Server thread/INFO] [jinryuudragonblockc/]: diego59288 has died
+[04:53:35] [Server thread/INFO] [jinryuujrmcore/]: diego59288 was slain by Android #17
+[04:53:39] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: diego59288
+[04:53:40] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: diego59288
+[04:53:40] [Server thread/INFO] [jinryuujrmcore/]: diego59288 Has died and gone to Otherworld.
+[04:54:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:54:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:55:16] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: diego59288
+[04:55:16] [Server thread/INFO] [jinryuudragonblockc/]: diego59288 revived!
+[04:55:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:56:24] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:57:09] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:57:54] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[04:58:39] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
