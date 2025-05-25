@@ -38,12 +38,12 @@
             },
             {
                 "Quest": 5,
-                "Date": 1158154L
+                "Date": 1198831L
             }
         ],
         "ActiveQuests": [
             {
-                "QuestCompleted": 1b,
+                "QuestCompleted": 0b,
                 "SendAlerts": 1b,
                 "ExtraData": {
                 },
