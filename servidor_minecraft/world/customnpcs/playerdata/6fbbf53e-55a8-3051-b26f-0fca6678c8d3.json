@@ -42,6 +42,13 @@
             }
         ],
         "ActiveQuests": [
+            {
+                "QuestCompleted": 0b,
+                "SendAlerts": 1b,
+                "ExtraData": {
+                },
+                "Quest": 5
+            }
         ]
     },
     "PlayerCompanionId": 0,

@@ -102,3 +102,14 @@
 [04:05:46] [Server thread/INFO]: [@QuestCompletion: TP adding 2000 success for diego59288]
 [04:05:50] [Server thread/INFO]: [@QuestCompletion: TP adding 2000 success for diego59288]
 [04:05:54] [Server thread/INFO]: [@QuestCompletion: TP adding 2000 success for diego59288]
+[04:09:30] [Server thread/INFO]: diego59288 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[04:09:30] [Server thread/INFO]: diego59288 left the game
+[04:10:55] [Server thread/INFO]: diego59288[/127.205.203.8:48631] logged in with entity id 1193785 at (33.42067465024538, 69.0, -285.0051467013436)
+[04:10:55] [Server thread/INFO]: diego59288 joined the game
+[04:11:28] [Server thread/WARN]: diego59288 moved wrongly!
+[04:14:01] [Server thread/WARN]: ImerPs moved wrongly!
+[04:15:30] [Server thread/INFO]: [@QuestCompletion: TP adding 7000 success for diego59288]
+[04:15:35] [Server thread/INFO]: [@QuestCompletion: TP adding 7000 success for diego59288]
+[04:15:41] [Server thread/INFO]: [@QuestCompletion: TP adding 7000 success for diego59288]
+[04:18:03] [Server thread/INFO]: [@QuestCompletion: TP adding 7000 success for diego59288]
+[04:18:07] [Server thread/INFO]: [@QuestCompletion: TP adding 7000 success for diego59288]
