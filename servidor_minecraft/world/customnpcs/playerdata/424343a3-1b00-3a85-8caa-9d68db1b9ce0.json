@@ -34,17 +34,10 @@
             },
             {
                 "Quest": 4,
-                "Date": 1098751L
+                "Date": 1118452L
             }
         ],
         "ActiveQuests": [
-            {
-                "QuestCompleted": 1b,
-                "SendAlerts": 1b,
-                "ExtraData": {
-                },
-                "Quest": 4
-            },
             {
                 "QuestCompleted": 0b,
                 "SendAlerts": 1b,
