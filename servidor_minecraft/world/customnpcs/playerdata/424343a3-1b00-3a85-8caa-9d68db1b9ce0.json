@@ -38,6 +38,20 @@
             }
         ],
         "ActiveQuests": [
+            {
+                "QuestCompleted": 1b,
+                "SendAlerts": 1b,
+                "ExtraData": {
+                },
+                "Quest": 4
+            },
+            {
+                "QuestCompleted": 0b,
+                "SendAlerts": 1b,
+                "ExtraData": {
+                },
+                "Quest": 5
+            }
         ]
     },
     "PlayerCompanionId": 0,
@@ -53,6 +67,12 @@
         },
         {
             "Dialog": 11
+        },
+        {
+            "Dialog": 12
+        },
+        {
+            "Dialog": 13
         }
     ],
     "ItemGiverChained": [

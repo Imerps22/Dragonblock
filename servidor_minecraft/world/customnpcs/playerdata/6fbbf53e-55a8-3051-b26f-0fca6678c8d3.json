@@ -35,6 +35,10 @@
             {
                 "Quest": 4,
                 "Date": 806074L
+            },
+            {
+                "Quest": 5,
+                "Date": 1101734L
             }
         ],
         "ActiveQuests": [
@@ -59,6 +63,12 @@
         },
         {
             "Dialog": 11
+        },
+        {
+            "Dialog": 12
+        },
+        {
+            "Dialog": 13
         }
     ],
     "ItemGiverChained": [
