@@ -3073,3 +3073,34 @@ Failed to initialize compiler: object scala in compiler mirror not found.
 [08:53:05] [Netty IO #7/TRACE] [FML/]: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
 [08:53:05] [Netty IO #7/TRACE] [FML/]: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
 [08:53:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[08:54:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[08:54:21] [Server thread/INFO] [jinryuudragonblockc/]: ImerPs has died
+[08:54:21] [Server thread/INFO] [jinryuujrmcore/]: ImerPs was slain by follequito
+[08:54:23] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: ImerPs
+[08:54:23] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: ImerPs
+[08:54:23] [Server thread/INFO] [jinryuujrmcore/]: ImerPs Has died and gone to Otherworld.
+[08:54:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[08:55:07] [Server thread/INFO] [jinryuujrmcore/]: JRMC has blocked an action at ID:10 by player: diego59288 for: DF9
+[08:55:07] [Server thread/INFO] [jinryuujrmcore/]: JRMC has blocked an action at ID:10 by player: diego59288 for: DF9
+[08:55:24] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: ImerPs
+[08:55:24] [Server thread/INFO] [jinryuudragonblockc/]: ImerPs revived!
+[08:55:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[08:56:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[08:57:05] [Server thread/INFO] [jinryuudragonblockc/]: ImerPs has died
+[08:57:05] [Server thread/INFO] [jinryuujrmcore/]: ImerPs was slain by follequito
+[08:57:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[08:57:06] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: ImerPs
+[08:57:07] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: ImerPs
+[08:57:07] [Server thread/INFO] [jinryuujrmcore/]: ImerPs Has died and gone to Otherworld.
+[08:57:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[08:58:06] [Server thread/DEBUG] [NotEnoughItems/]: Sending serverside check to: ImerPs
+[08:58:06] [Server thread/INFO] [jinryuudragonblockc/]: ImerPs revived!
+[08:58:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[08:59:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[08:59:33] [Server thread/INFO] [jinryuudragonblockc/]: ImerPs and diego59288 fused to Ime59288!
+[09:00:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[09:00:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[09:01:36] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[09:02:21] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[09:03:06] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world
+[09:03:51] [Server thread/DEBUG] [FML/]: Gathering id map for writing to world save world

@@ -163,3 +163,22 @@
 [08:51:48] [Server thread/INFO]: [@QuestCompletion: TP adding 8000 success for diego59288]
 [08:53:05] [Server thread/INFO]: ImerPs[/127.60.201.108:48403] logged in with entity id 657008 at (58.01200391729887, 68.0, -321.98227696488846)
 [08:53:05] [Server thread/INFO]: ImerPs joined the game
+[08:54:21] [Server thread/INFO]: ImerPs fell out of the world
+[08:55:28] [Server thread/INFO]: [ImerPs: Teleported ImerPs to 70.5,68.5,-349.5]
+[08:55:28] [Server thread/WARN]: Fetching addPacket for removed entity
+[08:55:28] [Server thread/WARN]: Fetching addPacket for removed entity
+[08:55:28] [Server thread/WARN]: Fetching addPacket for removed entity
+[08:55:28] [Server thread/WARN]: Fetching addPacket for removed entity
+[08:55:28] [Server thread/WARN]: Fetching addPacket for removed entity
+[08:55:28] [Server thread/WARN]: Fetching addPacket for removed entity
+[08:55:28] [Server thread/WARN]: Fetching addPacket for removed entity
+[08:55:28] [Server thread/WARN]: Fetching addPacket for removed entity
+[08:55:28] [Server thread/WARN]: Fetching addPacket for removed entity
+[08:55:28] [Server thread/WARN]: Fetching addPacket for removed entity
+[08:56:15] [Server thread/INFO]: [diego59288: Teleported diego59288 to ImerPs]
+[08:57:05] [Server thread/INFO]: ImerPs fell out of the world
+[08:58:08] [Server thread/WARN]: diego59288 moved wrongly!
+[08:58:33] [Server thread/INFO]: [ImerPs: Teleported ImerPs to 61.5,68.5,-335.5]
+[08:59:08] [Server thread/INFO]: [@QuestCompletion: TP adding 20000 success for ImerPs]
+[08:59:12] [Server thread/INFO]: [@QuestCompletion: TP adding 20000 success for ImerPs]
+[09:01:59] [Server thread/WARN]: ImerPs moved wrongly!
